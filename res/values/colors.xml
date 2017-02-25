@@ -16,15 +16,15 @@
 <resources>
     <color name="holo_gray_light">#33999999</color>
     <color name="default_background">#000</color>
-    <color name="primary">#0cac9b</color>
-    <color name="primary_dark">#0b9788</color>
-    <color name="accent">#0ec2b0</color>
+    <color name="primary">#ff4285f4</color>
+    <color name="primary_dark">#ff3167c1</color>
+    <color name="accent">#ff4285f4</color>
     <color name="textColor">#ffffff</color>
 
     <!-- configuration for album set page -->
     <color name="albumset_background">#171717</color>
     <color name="albumset_placeholder">#333</color>
-    <color name="albumset_label_background">#EE414143</color>
+    <color name="albumset_label_background">#ee4285f4</color>
     <color name="albumset_label_title">#FBFBFB</color>
     <color name="albumset_label_count">#A9ABAD</color>
 
